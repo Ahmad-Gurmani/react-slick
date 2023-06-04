@@ -115,3 +115,4 @@ Join our [discord channel](https://discord.gg/z7stRE4Cyb) to discuss react-slick
 ## Contributing
 
 Please see the [contributing guidelines](./CONTRIBUTING.md)
+
